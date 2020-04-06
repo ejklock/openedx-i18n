@@ -12461,6 +12461,11 @@ msgid ""
 "process your personal data in accordance                   with the "
 "{privacy_policy_link_start}Privacy Policy{privacy_policy_link_end}."
 msgstr ""
+"Ao criar uma conta com {platform_name}, você concorda em obedecer aos nossos"
+"                    {terms_of_service_link_start}{terms_of_service} "
+"{platform_name}{terms_of_service_link_end}                   e concorda com "
+"a nossa {privacy_policy_link_start}Política de "
+"Privacidade{privacy_policy_link_end}."
 
 #. Translators: "Terms of service" is a legal document users must agree to
 #. in order to register a new account.
