@@ -9,7 +9,6 @@ locales:
     - pt_BR #Português
     - en
     - es_ES  # Spanish (Spain)
-    - fr_CA # French (Canada)
     - ja_JP  # Japanese (Japan)
 
 # Copied from edx-platform/conf/locale/config.yaml

@@ -26,6 +26,7 @@ WORKDIR /openedx/edx-platform
 # Install python requirements
 RUN virtualenv ../venv
 ENV PATH /openedx/venv/bin:${PATH}
+RUN pip install "setuptools<45"
 RUN pip install -r requirements/edx/development.txt
 
 # Install alternative edx-i18n-tools to fix issues
