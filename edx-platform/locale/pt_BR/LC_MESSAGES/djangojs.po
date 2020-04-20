@@ -11139,3 +11139,9 @@ msgstr ""
 #: cms/templates/js/video/transcripts/messages/transcripts-use-existing.underscore
 msgid "Use Current Transcript"
 msgstr "Usar a Transcrição Atual"
+
+#: common/static/common/templates/discussion/new-post.underscore
+#: common/static/common/templates/discussion/thread-edit.underscore
+msgid ""
+"Add a clear and descriptive title to encourage participation. (Required)"
+msgstr "Adicione um título claro e descritivo para incentivar a participação. (Obrigatório)"
