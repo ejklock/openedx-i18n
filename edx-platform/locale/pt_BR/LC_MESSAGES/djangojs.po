@@ -1181,8 +1181,8 @@ msgstr "Responder à anotação"
 #: common/static/bundles/ProblemBlockPreview.js
 msgid "%(num_points)s point possible (graded, results hidden)"
 msgid_plural "%(num_points)s points possible (graded, results hidden)"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%(num_points)s ponto possível (avaliado(a), resultados ocultos)"
+msgstr[1] "%(num_points)s pontos possíveis (avaliado(a), resultados ocultos)"
 
 #. Translators: %(num_points)s is the number of points possible (examples: 1,
 #. 3, 10).;
@@ -1191,8 +1191,8 @@ msgstr[1] ""
 #: common/static/bundles/ProblemBlockPreview.js
 msgid "%(num_points)s point possible (ungraded, results hidden)"
 msgid_plural "%(num_points)s points possible (ungraded, results hidden)"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%(num_points)s ponto possível (não avaliado(a), resultados ocultos)"
+msgstr[1] "%(num_points)s pontos possíveis (não avaliado(a), resultados ocultos)"
 
 #. Translators: %(num_points)s is the number of points possible (examples: 1,
 #. 3, 10).;
@@ -1201,8 +1201,8 @@ msgstr[1] ""
 #: common/static/bundles/ProblemBlockPreview.js
 msgid "%(num_points)s point possible (graded)"
 msgid_plural "%(num_points)s points possible (graded)"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%(num_points)s ponto possivel (avaliado(a))"
+msgstr[1] "%(num_points)s pontos possiveis (avaliado(a))""
 
 #. Translators: %(num_points)s is the number of points possible (examples: 1,
 #. 3, 10).;
@@ -1211,8 +1211,8 @@ msgstr[1] ""
 #: common/static/bundles/ProblemBlockPreview.js
 msgid "%(num_points)s point possible (ungraded)"
 msgid_plural "%(num_points)s points possible (ungraded)"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%(num_points) ponto possivel (não avaliado(a))"
+msgstr[1] "%(num_points)s pontos possiveis (não avaliado(a))""
 
 #. Translators: %(earned)s is the number of points earned. %(possible)s is the
 #. total number of points (examples: 0/1, 1/1, 2/3, 5/10). The total number of
@@ -1223,8 +1223,8 @@ msgstr[1] ""
 #: common/static/bundles/ProblemBlockPreview.js
 msgid "%(earned)s/%(possible)s point (graded)"
 msgid_plural "%(earned)s/%(possible)s points (graded)"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%(earned)s/%(possible) ponto (avaliado(a))"
+msgstr[1] "%(earned)s/%(possible)s pontos (avaliado(a))"
 
 #. Translators: %(earned)s is the number of points earned. %(possible)s is the
 #. total number of points (examples: 0/1, 1/1, 2/3, 5/10). The total number of
@@ -1235,8 +1235,8 @@ msgstr[1] ""
 #: common/static/bundles/ProblemBlockPreview.js
 msgid "%(earned)s/%(possible)s point (ungraded)"
 msgid_plural "%(earned)s/%(possible)s points (ungraded)"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%(earned)s/%(possible) ponto (não avaliado(a))"
+msgstr[1] "%(earned)s/%(possible)s pontos (não avaliado(a))"
 
 #: common/lib/xmodule/xmodule/js/src/capa/display.js
 #: common/static/bundles/CapaModule.js
